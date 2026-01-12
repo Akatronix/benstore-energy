@@ -47,7 +47,7 @@ export default function DashboardPage() {
 
     loadUser();
 
-    const interval = setInterval(loadUser, 1000);
+    const interval = setInterval(loadUser, 5000);
 
     return () => clearInterval(interval);
   }, []);
