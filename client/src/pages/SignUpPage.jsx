@@ -509,7 +509,7 @@ export default function SignupPage() {
               <h1 className="text-3xl font-bold">BenStore</h1>
             </div>
 
-            <h2 className="text-4xl font-bold mb-4">Smart Store Management</h2>
+            <h2 className="text-4xl font-bold mb-4">Smart Energy Management</h2>
             <p className="text-lg mb-6 text-orange-100">
               Take control of your energy consumption with powerful insights and
               real-time monitoring.
