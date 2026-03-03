@@ -462,8 +462,8 @@ export default function LoginPage() {
 
             <h2 className="text-4xl font-bold mb-4">Welcome Back</h2>
             <p className="text-lg mb-6 text-orange-100">
-              Sign in to access your store dashboard and continue managing your
-              inventory.
+              Sign in to access your energy dashboard and continue managing your
+              energy consumption.
             </p>
 
             <div className="space-y-4">
@@ -473,10 +473,10 @@ export default function LoginPage() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-lg">
-                    Inventory Management
+                    Energy Management
                   </h3>
                   <p className="text-orange-100">
-                    Track your products and stock levels
+                    Track your energy consumption
                   </p>
                 </div>
               </div>
@@ -486,9 +486,9 @@ export default function LoginPage() {
                   <TrendingUp className="h-5 w-5 text-orange-300" />
                 </div>
                 <div>
-                  <h3 className="font-semibold text-lg">Sales Analytics</h3>
+                  <h3 className="font-semibold text-lg">Real-Time Analytics</h3>
                   <p className="text-orange-100">
-                    Monitor sales performance and trends
+                    Monitor your energy consumption in real-time
                   </p>
                 </div>
               </div>
@@ -519,7 +519,7 @@ export default function LoginPage() {
             </div>
             <h1 className="text-3xl font-bold text-gray-900">BenStore</h1>
             <p className="mt-2 text-gray-600">
-              Your complete store management solution
+              Your complete energy management solution
             </p>
           </div>
 
