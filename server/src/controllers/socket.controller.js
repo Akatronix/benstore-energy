@@ -40,17 +40,7 @@ async function createSocket(req, res) {
   }
 }
 
-// async function getSockets(req, res) {
-//   try {
-//     const sockets = await Socket.find({ userID: req.user.id }).select(
-//       "-userID"
-//     );
-//     res.status(200).json({ success: true, data: sockets });
-//   } catch (error) {
-//     console.error("Error fetching sockets:", error);
-//     res.status(500).json({ message: "Internal server error" });
-//   }
-// }
+
 
 
 async function updateSocketInfo(req, res) {
