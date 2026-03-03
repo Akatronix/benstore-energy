@@ -511,8 +511,8 @@ export default function SignupPage() {
 
             <h2 className="text-4xl font-bold mb-4">Smart Store Management</h2>
             <p className="text-lg mb-6 text-orange-100">
-              Take control of your inventory with powerful insights and
-              real-time tracking.
+              Take control of your energy consumption with powerful insights and
+              real-time monitoring.
             </p>
 
             <div className="space-y-4">
@@ -522,10 +522,10 @@ export default function SignupPage() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-lg">
-                    Inventory Management
+                    Energy Management
                   </h3>
                   <p className="text-orange-100">
-                    Track your products and stock levels
+                    Track your energy consumption
                   </p>
                 </div>
               </div>
@@ -535,9 +535,9 @@ export default function SignupPage() {
                   <TrendingUp className="h-5 w-5 text-orange-300" />
                 </div>
                 <div>
-                  <h3 className="font-semibold text-lg">Sales Analytics</h3>
+                  <h3 className="font-semibold text-lg">Real-Time Analytics</h3>
                   <p className="text-orange-100">
-                    Monitor sales performance and trends
+                    Monitor your energy consumption in real-time
                   </p>
                 </div>
               </div>
@@ -568,7 +568,7 @@ export default function SignupPage() {
             </div>
             <h1 className="text-3xl font-bold text-gray-900">BenStore</h1>
             <p className="mt-2 text-gray-600">
-              Your complete store management solution
+              Your complete energy management solution
             </p>
           </div>
 
@@ -579,7 +579,7 @@ export default function SignupPage() {
                 Create Account
               </CardTitle>
               <CardDescription className="text-center">
-                Join BenStore to start managing your inventory and sales
+                Join BenStore to start managing your energy consumption
               </CardDescription>
             </CardHeader>
 
